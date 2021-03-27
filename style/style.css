@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	outline: auto;
+	margin: 20px;
+	padding: 10px;
+}
+div{
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.link1{
+	border: 1px solid black;
+	border-radius: 4px;
+	text-decoration: none;
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+
+}
+
+.bulls{
+	height: 400px;
+	width: 400px;
+	border: 2px solid #333;
+	margin-left: 10px;
+}
+.link2{
+	border: 1px solid black;
+	border-radius: 4px;
+	margin: auto;
+	text-decoration: none;
+
+}
+
+.nasa{
+	height: 400px;
+	width: 400px;
+	border: 2px solid #333;
+	margin-left: 10px;
+}
+
+.link3{
+	border: 1px solid black;
+	border-radius: 4px;
+	margin: auto;
+	text-decoration: none;
+
+}
+.bee{
+	height: 400px;
+	width: 400px;
+	border: 2px solid #333;
+	margin-left: 10px;
+}
+.link4{
+	border: 1px solid black;
+	border-radius: 4px;
+	margin: auto;
+	text-decoration: none;
+	
+}
+.cook{
+	height: 400px;
+	width: 400px;
+	border: 2px solid #333;
+	margin-left: 10px;
+}
